@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 I’m currently working on<br><br>Building scalable full-stack web applications using MEAN, MERN, and MEVN stacks<br><br>Designing secure REST APIs with Node.js & Express<br><br>Working with cloud-native architectures (AWS, Serverless)<br><br>Improving performance, security, and scalability in production systems<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack JavaScript projects<br><br>SaaS products and startup ideas<br><br>Open-source projects related to Node.js, Angular, React, Vue, or system design<br><br>High-scale backend systems<br><br>💬 Ask me about<br><br>JavaScript (Node.js, ES6+)<br><br>MEAN / MERN / MEVN stacks<br><br>REST APIs & backend architecture<br><br>AWS & serverless applications<br><br>Code reviews & project structuring<br>
+👨‍💻 I’m currently working on<br>Building scalable full-stack web applications using MEAN, MERN, and MEVN stacks<br>Designing secure REST APIs with Node.js & Express<br><br>Working with cloud-native architectures (AWS, Serverless)<br><br>Improving performance, security, and scalability in production systems<br><br>
+💬 Ask me about<br>JavaScript (Node.js, ES6+)<br><br>MEAN / MERN / MEVN stacks<br><br>REST APIs & backend architecture<br>AWS & serverless applications<br>Code reviews & project structuring<br>
 
 
 ## 🌐 Socials:
