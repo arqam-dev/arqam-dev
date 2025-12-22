@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 I’m currently working on<br>Building scalable full-stack web applications using MEAN, MERN, and MEVN stacks<br>Designing secure REST APIs with Node.js & Express<br><br>Working with cloud-native architectures (AWS, Serverless)<br><br>Improving performance, security, and scalability in production systems<br><br>
-💬 Ask me about<br>JavaScript (Node.js, ES6+)<br><br>MEAN / MERN / MEVN stacks<br><br>REST APIs & backend architecture<br>AWS & serverless applications<br>Code reviews & project structuring<br>
+💬 Ask me about<br>JavaScript (Node.js, ES6+)<br>MEAN / MERN / MEVN stacks<br><br>REST APIs & backend architecture<br>AWS & serverless applications<br>Code reviews & project structuring<br>
 
 
 ## 🌐 Socials:
