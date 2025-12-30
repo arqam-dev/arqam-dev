@@ -270,28 +270,13 @@ Essential boilerplate code for connecting to multiple databases and organizing p
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arqam-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqam-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arqam-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 📞 Contact & Connect
 
 <div align="center">
 
 ### 📧 Email
-**codewitharqam@gmail.com**
+**arqam.applynow@gmail.com**
 
 ### 📍 Location
 **Lisbon, Portugal, Europe** 🇵🇹
@@ -328,7 +313,7 @@ Essential boilerplate code for connecting to multiple databases and organizing p
 
 <div align="center">
 
-### ⚡ Fun Fact
+### ⚡ Acheivement
 I've managed teams across **5 different countries** (Portugal, London, Poland, Seattle, Boston, U.A.E) and have trained **500+ students** in JavaScript technologies!
 
 ---
